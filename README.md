@@ -1,6 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Ravenous
 
-## Available Scripts
+This small application is a Yelp clone, pulling information from the Yelp Fusion API. A simple search bar allows the user to search by business and location, and filter by best match, highest rating, or most reviewed.
+
+**This project is part of the Codecademy Web Development course**, and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+For it to work locally, you have to input your own Yelp API key in an `.env` file in the root directory with the key _REACT_APP_APIKEY_.
+
+Run `npm install` to use it locally.
+
+### Available Scripts
 
 In the project directory, you can run:
 
